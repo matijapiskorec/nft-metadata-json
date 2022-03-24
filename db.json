@@ -1,9 +1,11 @@
-[
-  {
-    "id": 0,
-    "description": "Snorlax NFT with a single mint.",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://p7.hiclipart.com/preview/496/922/397/pokemon-go-pokemon-battle-revolution-pikachu-snorlax-pokemon-go.jpg",
-    "name": "Snorlax NFT - mint 0"
-  }
-]
+{
+  "tokens": [
+    {
+      "id": 0,
+      "description": "Snorlax NFT with a single mint.",
+      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+      "image": "https://p7.hiclipart.com/preview/496/922/397/pokemon-go-pokemon-battle-revolution-pikachu-snorlax-pokemon-go.jpg",
+      "name": "Snorlax NFT - mint 0"
+    }
+  ]
+}
